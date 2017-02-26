@@ -8,7 +8,7 @@ for(i=0;i < obj.length; i++){
   tags = obj[i].tags;
   image = "svg/" + name + ".svg";
 
-  content+= "<div class='searchable-item card'>" + "<h3>" + name + "</h3>" + "<br>" + "<img src='" + image + "'>" + "<br>" + tags + "</div>";
+  content+= "<div class='searchable-item card'>" + "<h3>" + name + "</h3>" + "<br>" + "<a href='svg/" + name + ".svg' target='_blank'><img src='" + image + "'></a><br>" + tags + "</div>";
 }
 
 document.getElementById("content").innerHTML =  content
