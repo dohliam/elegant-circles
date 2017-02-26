@@ -1,8 +1,8 @@
 # Elegant Themes Circle Icons in SVG format
 
-https://dohliam.github.io/elegant-circles/svg/image.svg" alt="image" width="100" height="100">
-https://dohliam.github.io/elegant-circles/svg/bolt.svg" alt="bolt" width="100" height="100">
-https://dohliam.github.io/elegant-circles/svg/brightness.svg" alt="brightness" width="100" height="100">
+<img src="https://dohliam.github.io/elegant-circles/svg/image.svg" alt="image" width="100" height="100">
+<img src="https://dohliam.github.io/elegant-circles/svg/bolt.svg" alt="bolt" width="100" height="100">
+<img src="https://dohliam.github.io/elegant-circles/svg/brightness.svg" alt="brightness" width="100" height="100">
 
 This repo makes available the [Elegant Themes Circle Icons](https://commons.wikimedia.org/wiki/Category:Elegant_Themes_Circle_Icons) in SVG format.
 
