@@ -6,6 +6,10 @@ The icons were originally released on the [Elegant Themes website](http://www.el
 
 They are provided here for convenience and for ease of use in various applications.
 
+## Searching
+
+You can search through the icons by name or using tags in the [online demo](https://dohliam.github.io/elegant-circles/).
+
 ## License
 
 GPL.
