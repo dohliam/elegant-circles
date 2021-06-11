@@ -1,0 +1,15 @@
+{
+  "name": "elegant-circles",
+  "version": "1.0.0",
+  "description": "This repo contains the Elegant Themes Beautiful Flat Icons",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dohliam/elegant-circles.git"
+  },
+  "author": "Elegant Themes",
+  "license": "GPL",
+  "homepage": "https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free"
+}
