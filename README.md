@@ -1,8 +1,10 @@
 # Elegant Themes Beautiful Flat Icons in SVG and original formats
 
+<p align="center">
 <img src="https://dohliam.github.io/elegant-circles/svg/image.svg" alt="image" width="100" height="100">
 <img src="https://dohliam.github.io/elegant-circles/svg/bolt.svg" alt="bolt" width="100" height="100">
 <img src="https://dohliam.github.io/elegant-circles/svg/brightness.svg" alt="brightness" width="100" height="100">
+</p>
 
 This repo makes available the [Elegant Themes Beautiful Flat Icons](https://commons.wikimedia.org/wiki/Category:Elegant_Themes_Circle_Icons) in SVG format.
 
